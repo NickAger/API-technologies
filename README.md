@@ -5,6 +5,7 @@ GraphQL, Rest + swagger etc
 * https://www.apollographql.com
 * [GRPC](https://grpc.io) - "Define your service using Protocol Buffers ... Automatically generate idiomatic client and server stubs for your service in a variety of languages and platforms"
 * [swagger](https://swagger.io) - "The Best APIs are Built with Swagger Tools"
+* "Why spend time building an API at all? Just point Postgrest at your PostreSQL database and you get a REST api for free. There’s similar projects for graphql and other DBs"
 
 
 ## Contract checkers
