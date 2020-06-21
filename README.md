@@ -6,7 +6,7 @@ GraphQL, Rest + swagger etc
 * https://www.apollographql.com
 * [GRPC](https://grpc.io) - "Define your service using Protocol Buffers ... Automatically generate idiomatic client and server stubs for your service in a variety of languages and platforms"
 * [swagger](https://swagger.io) - "The Best APIs are Built with Swagger Tools"
-* "Why spend time building an API at all? Just point Postgrest at your PostreSQL database and you get a REST api for free. There’s similar projects for graphql and other DBs"
+* http://postgrest.org/ "Why spend time building an API at all? Just point Postgrest at your PostreSQL database and you get a REST api for free. There’s similar projects for graphql and other DBs" - "PostgREST is a standalone web server that turns your PostgreSQL database directly into a RESTful API. The structural constraints and permissions in the database determine the API endpoints and operations."
 
 ## GraphQL implementations
 * https://www.apollographql.com/ - "Simplify app development by combining APIs, databases, and microservices into a single data graph that you can query with GraphQL"
